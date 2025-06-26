@@ -2,7 +2,6 @@
 venv/
 .env
 
-
 # Byte-compiled / cache files
 __pycache__/
 *.py[cod]
@@ -13,3 +12,7 @@ __pycache__/
 
 # VSCode settings (optional, if you use VSCode)
 .vscode/
+
+# Ignore gmail credentials
+gmail_integration/credentials.json
+token.json
