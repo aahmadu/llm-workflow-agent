@@ -13,6 +13,5 @@ __pycache__/
 # VSCode settings (optional, if you use VSCode)
 .vscode/
 
-# Ignore gmail credentials
-gmail_integration/credentials.json
-token.json
+# Ignore credentials (google)
+credentials/

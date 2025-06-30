@@ -21,7 +21,7 @@ Example use-case: triage inbound emails, summarize documents, classify messages,
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/llm-workflow-agent.git
+git clone https://github.com/aahmadu/llm-workflow-agent.git
 cd llm-workflow-agent
 ```
 
